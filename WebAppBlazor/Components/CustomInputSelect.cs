@@ -8,7 +8,7 @@ namespace EmployeeManagement.Components
     public class CustomInputSelect<TValue> : InputSelect<TValue>
     {
         protected override bool TryParseValueFromString(string value, out TValue result,
-            out string validationErrorMessage)
+            out string? validationErrorMessage)
         {
             if (typeof(TValue) == typeof(int))
             {

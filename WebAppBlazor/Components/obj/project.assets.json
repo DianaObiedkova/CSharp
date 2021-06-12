@@ -958,11 +958,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Programs\\Projects\\c#\\WebAppBlazor\\Components\\EmployeeManagement.Components.csproj",
+      "projectUniqueName": "F:\\Programs\\Projects\\git\\WebAppBlazor\\Components\\EmployeeManagement.Components.csproj",
       "projectName": "EmployeeManagement.Components",
-      "projectPath": "F:\\Programs\\Projects\\c#\\WebAppBlazor\\Components\\EmployeeManagement.Components.csproj",
+      "projectPath": "F:\\Programs\\Projects\\git\\WebAppBlazor\\Components\\EmployeeManagement.Components.csproj",
       "packagesPath": "C:\\Users\\Diana\\.nuget\\packages\\",
-      "outputPath": "F:\\Programs\\Projects\\c#\\WebAppBlazor\\Components\\obj\\",
+      "outputPath": "F:\\Programs\\Projects\\git\\WebAppBlazor\\Components\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

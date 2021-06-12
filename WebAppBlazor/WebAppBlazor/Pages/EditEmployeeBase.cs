@@ -16,7 +16,7 @@ namespace WebAppBlazor.Pages
     public class EditEmployeeBase : ComponentBase
     {
         [CascadingParameter]
-        public Task<AuthenticationState> authenticationStateTask { get; set; }
+        public Task<AuthenticationState> AuthenticationStateTask { get; set; }
 
         private Employee Employee { get; set; } = new Employee();
         public EditEmployeeModel EditEmployeeModel { get; set; } = new EditEmployeeModel();
@@ -39,7 +39,7 @@ namespace WebAppBlazor.Pages
         public NavigationManager NavigationManager { get; set; }
         protected async override Task OnInitializedAsync()
         {
-            var authenticationState = await authenticationStateTask;
+            var authenticationState = await AuthenticationStateTask;
 
             if (!authenticationState.User.Identity.IsAuthenticated)
             {
@@ -65,30 +65,16 @@ namespace WebAppBlazor.Pages
                 };
             }
 
-            //Employee = await EmployeeService.GetEmployee(int.Parse(Id));
             Departments = (await DepartmentService.GetDepartments()).ToList();
             //DepartmentId = Employee.DepartmentId.ToString();
 
             Mapper.Map(Employee, EditEmployeeModel);
-
-            //EditEmployeeModel.ConfirmEmail = Employee.Email;
-            //EditEmployeeModel.Email = Employee.Email;
-            //EditEmployeeModel.EmployeeId = Employee.EmployeeId;
-            //EditEmployeeModel.FirstName = Employee.FirstName;
-            //EditEmployeeModel.DateOfBrith = Employee.DateOfBrith;
-            //EditEmployeeModel.PhotoPath = Employee.PhotoPath;
-            //EditEmployeeModel.DepartmentId = Employee.DepartmentId;
-            //EditEmployeeModel.Gender = Employee.Gender;
-            //EditEmployeeModel.EmployeeId = Employee.EmployeeId;
-            //EditEmployeeModel.LastName = Employee.LastName;
-            //EditEmployeeModel.Department = Employee.Department;
         }
 
         protected async Task HandleValidSubmit()
         {
             Mapper.Map(EditEmployeeModel, Employee);
-            Employee result = null;
-
+            Employee result;
             if (Employee.EmployeeId != 0)
             {
                 result = await EmployeeService.UpdateEmployee(Employee);

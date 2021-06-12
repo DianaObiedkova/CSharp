@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GSKiqnqVFVFAtL33mHzkWGdI+oGdZDkDz2oxNCPuziTswmMXbiiY7zZOs60Jjh7XFRZAoNit8K/HHk6lYQvVGg==",
+  "dgSpecHash": "XJcFoBRw0a33a8RzjnOdT/W7oqrLSMj7fxNZ6NVzflc8p3i49A7gEpmB0eJ9BXYuo34id7APrfoBxFxDNiNxbw==",
   "success": true,
-  "projectFilePath": "F:\\Programs\\Projects\\c#\\WebAppBlazor\\EmployeeManagement.Models\\EmployeeManagement.Models.csproj",
+  "projectFilePath": "F:\\Programs\\Projects\\git\\WebAppBlazor\\EmployeeManagement.Models\\EmployeeManagement.Models.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Diana\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",

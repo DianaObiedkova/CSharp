@@ -17,6 +17,8 @@ namespace WebAppBlazor
 {
     public class Startup
     {
+        private const string UriString = "https://localhost:44375/";
+
         public Startup(IConfiguration configuration)
         {
             Configuration = configuration;
@@ -38,12 +40,12 @@ namespace WebAppBlazor
 
             services.AddHttpClient<IEmployeeService, EmployeeService>(client =>
              {
-                 client.BaseAddress = new Uri("https://localhost:44375/");
+                 client.BaseAddress = new Uri(UriString);
              });
 
             services.AddHttpClient<IDepartmentService, DepartmentService>(client =>
             {
-                client.BaseAddress = new Uri("https://localhost:44375/");
+                client.BaseAddress = new Uri(UriString);
             });
         }
 

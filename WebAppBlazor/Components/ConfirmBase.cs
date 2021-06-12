@@ -14,7 +14,7 @@ namespace EmployeeManagement.Components
         public string ConfirmationTitle { get; set; } = "Confirm Delete";
 
         [Parameter]
-        public string ConfirmationMessage { get; set; } = "Are you sure you want to delete";
+        public string ConfirmationMessage { get; set; } = "Are you sure you want to delete?";
 
         public void Show()
         {

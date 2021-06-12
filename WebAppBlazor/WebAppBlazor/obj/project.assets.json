@@ -9163,11 +9163,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Programs\\Projects\\c#\\WebAppBlazor\\WebAppBlazor\\WebAppBlazor.csproj",
+      "projectUniqueName": "F:\\Programs\\Projects\\git\\WebAppBlazor\\WebAppBlazor\\WebAppBlazor.csproj",
       "projectName": "WebAppBlazor",
-      "projectPath": "F:\\Programs\\Projects\\c#\\WebAppBlazor\\WebAppBlazor\\WebAppBlazor.csproj",
+      "projectPath": "F:\\Programs\\Projects\\git\\WebAppBlazor\\WebAppBlazor\\WebAppBlazor.csproj",
       "packagesPath": "C:\\Users\\Diana\\.nuget\\packages\\",
-      "outputPath": "F:\\Programs\\Projects\\c#\\WebAppBlazor\\WebAppBlazor\\obj\\",
+      "outputPath": "F:\\Programs\\Projects\\git\\WebAppBlazor\\WebAppBlazor\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -9186,11 +9186,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "F:\\Programs\\Projects\\c#\\WebAppBlazor\\Components\\EmployeeManagement.Components.csproj": {
-              "projectPath": "F:\\Programs\\Projects\\c#\\WebAppBlazor\\Components\\EmployeeManagement.Components.csproj"
+            "F:\\Programs\\Projects\\git\\WebAppBlazor\\Components\\EmployeeManagement.Components.csproj": {
+              "projectPath": "F:\\Programs\\Projects\\git\\WebAppBlazor\\Components\\EmployeeManagement.Components.csproj"
             },
-            "F:\\Programs\\Projects\\c#\\WebAppBlazor\\EmployeeManagement.Models\\EmployeeManagement.Models.csproj": {
-              "projectPath": "F:\\Programs\\Projects\\c#\\WebAppBlazor\\EmployeeManagement.Models\\EmployeeManagement.Models.csproj"
+            "F:\\Programs\\Projects\\git\\WebAppBlazor\\EmployeeManagement.Models\\EmployeeManagement.Models.csproj": {
+              "projectPath": "F:\\Programs\\Projects\\git\\WebAppBlazor\\EmployeeManagement.Models\\EmployeeManagement.Models.csproj"
             }
           }
         }

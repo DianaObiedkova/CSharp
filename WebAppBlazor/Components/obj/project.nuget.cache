@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "T5b9UaF461VPBpnv46D0YVVTbS3W6eQNeKIlQm1C1bqKOpQKMKY8YXaD1hL3REXTOyhsQZOvCf+BtHL7/1wn3A==",
+  "dgSpecHash": "iI/D4OEszu35OwnMdjFk3RFITUm0ZfqCY6twiUn1CQSYFYHeqLBQEdiGWsFMO8I2a3iEg8L6CeS/OL/l7SzOTw==",
   "success": true,
-  "projectFilePath": "F:\\Programs\\Projects\\c#\\WebAppBlazor\\Components\\EmployeeManagement.Components.csproj",
+  "projectFilePath": "F:\\Programs\\Projects\\git\\WebAppBlazor\\Components\\EmployeeManagement.Components.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Diana\\.nuget\\packages\\microsoft.aspnetcore.authorization\\3.1.15\\microsoft.aspnetcore.authorization.3.1.15.nupkg.sha512",
     "C:\\Users\\Diana\\.nuget\\packages\\microsoft.aspnetcore.components\\3.1.15\\microsoft.aspnetcore.components.3.1.15.nupkg.sha512",

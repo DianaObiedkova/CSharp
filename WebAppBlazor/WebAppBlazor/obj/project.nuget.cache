@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nU+y8SHAzJJThrC9yJl1ZVlLic95Th79yVqM/+huWc1tOBW88J3sr86V5z6/0CZzgKPq1gS6/UmL6gVrbHTz5g==",
+  "dgSpecHash": "MZC9HCuIR9oYGOfCueSh/+8yHLlRmJDck/M6qJjuvqWsXR2YaMlwm9whW+p5KtYDjgYvx+dM2yUjXrm9kx1hiQ==",
   "success": true,
-  "projectFilePath": "F:\\Programs\\Projects\\c#\\WebAppBlazor\\WebAppBlazor\\WebAppBlazor.csproj",
+  "projectFilePath": "F:\\Programs\\Projects\\git\\WebAppBlazor\\WebAppBlazor\\WebAppBlazor.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Diana\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\Diana\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",

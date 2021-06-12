@@ -5779,11 +5779,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Programs\\Projects\\c#\\WebAppBlazor\\EmployeeManagement.Api\\EmployeeManagement.Api.csproj",
+      "projectUniqueName": "F:\\Programs\\Projects\\git\\WebAppBlazor\\EmployeeManagement.Api\\EmployeeManagement.Api.csproj",
       "projectName": "EmployeeManagement.Api",
-      "projectPath": "F:\\Programs\\Projects\\c#\\WebAppBlazor\\EmployeeManagement.Api\\EmployeeManagement.Api.csproj",
+      "projectPath": "F:\\Programs\\Projects\\git\\WebAppBlazor\\EmployeeManagement.Api\\EmployeeManagement.Api.csproj",
       "packagesPath": "C:\\Users\\Diana\\.nuget\\packages\\",
-      "outputPath": "F:\\Programs\\Projects\\c#\\WebAppBlazor\\EmployeeManagement.Api\\obj\\",
+      "outputPath": "F:\\Programs\\Projects\\git\\WebAppBlazor\\EmployeeManagement.Api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5802,8 +5802,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "F:\\Programs\\Projects\\c#\\WebAppBlazor\\EmployeeManagement.Models\\EmployeeManagement.Models.csproj": {
-              "projectPath": "F:\\Programs\\Projects\\c#\\WebAppBlazor\\EmployeeManagement.Models\\EmployeeManagement.Models.csproj"
+            "F:\\Programs\\Projects\\git\\WebAppBlazor\\EmployeeManagement.Models\\EmployeeManagement.Models.csproj": {
+              "projectPath": "F:\\Programs\\Projects\\git\\WebAppBlazor\\EmployeeManagement.Models\\EmployeeManagement.Models.csproj"
             }
           }
         }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZLcwV/bXMMkzAn0oAx8yvwKE1MSyFvBd9N99N25amC59YlSWBl7sSrs1VgkltT3XNnZi1MO6PDNpt3d7GWfwFQ==",
+  "dgSpecHash": "vesY+VPOkMKgfgF4fiUbzaK+ljLnBEJXHxf/SckxKVQE/gupF2V7ecsLpuAdmHvQZ0jzrzUAlaJv2JcOfL3B5w==",
   "success": true,
-  "projectFilePath": "F:\\Programs\\Projects\\c#\\WebAppBlazor\\EmployeeManagement.Api\\EmployeeManagement.Api.csproj",
+  "projectFilePath": "F:\\Programs\\Projects\\git\\WebAppBlazor\\EmployeeManagement.Api\\EmployeeManagement.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Diana\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Diana\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

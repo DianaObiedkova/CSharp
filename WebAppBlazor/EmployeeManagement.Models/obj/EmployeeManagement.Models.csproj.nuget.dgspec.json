@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Programs\\Projects\\c#\\WebAppBlazor\\EmployeeManagement.Models\\EmployeeManagement.Models.csproj": {}
+    "F:\\Programs\\Projects\\git\\WebAppBlazor\\EmployeeManagement.Models\\EmployeeManagement.Models.csproj": {}
   },
   "projects": {
-    "F:\\Programs\\Projects\\c#\\WebAppBlazor\\EmployeeManagement.Models\\EmployeeManagement.Models.csproj": {
+    "F:\\Programs\\Projects\\git\\WebAppBlazor\\EmployeeManagement.Models\\EmployeeManagement.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Programs\\Projects\\c#\\WebAppBlazor\\EmployeeManagement.Models\\EmployeeManagement.Models.csproj",
+        "projectUniqueName": "F:\\Programs\\Projects\\git\\WebAppBlazor\\EmployeeManagement.Models\\EmployeeManagement.Models.csproj",
         "projectName": "EmployeeManagement.Models",
-        "projectPath": "F:\\Programs\\Projects\\c#\\WebAppBlazor\\EmployeeManagement.Models\\EmployeeManagement.Models.csproj",
+        "projectPath": "F:\\Programs\\Projects\\git\\WebAppBlazor\\EmployeeManagement.Models\\EmployeeManagement.Models.csproj",
         "packagesPath": "C:\\Users\\Diana\\.nuget\\packages\\",
-        "outputPath": "F:\\Programs\\Projects\\c#\\WebAppBlazor\\EmployeeManagement.Models\\obj\\",
+        "outputPath": "F:\\Programs\\Projects\\git\\WebAppBlazor\\EmployeeManagement.Models\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
